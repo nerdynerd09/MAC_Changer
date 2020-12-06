@@ -1,12 +1,12 @@
 # MAC_Changer
----
+
 # About
 
 This is a tool which changes your **MAC Address in Kali Linux** and helps you increase your anonimity on the web. 
 
 When you type **ifconfig** in your terminal the value of ether is your MAC Address. 
 
----
+
 
 # Usage
 - To run this program type -  
