@@ -11,6 +11,8 @@ When you type **ifconfig** in your terminal the value of ether is your MAC Addre
 # Usage
 - To run this program type -  
 
+```pip install -r requirements.txt```
+
 ```python2 MAC_Changer.py```  
 
 It will ask for an interface in that enter the interface whose **MAC ADDRESS** you want to change for example wlan0 or eth0. 
